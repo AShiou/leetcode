@@ -4,4 +4,5 @@
 [Easy]461-Hamming Distance  
 [Easy]657-Judge Route Circle  
 [MySQL]  
-[Easy][MySQL]595-Big Countries  
+[Easy]595-Big Countries  
+[Easy]182-Duplicate Emails
